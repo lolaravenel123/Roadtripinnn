@@ -1,0 +1,141 @@
+ 
+
+ @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Roboto:wght@300&display=swap");
+
+body{
+
+           font-family: 'Roboto', sans-serif;
+
+           font-size: 20px;
+
+           text-align: center;
+
+           background-color: white ;
+
+}
+
+ 
+
+ 
+
+ 
+
+h1 {
+
+           font-family: 'Josefin Sans', sans-serif;
+
+           font-size: 45px;
+
+}
+
+ 
+
+h2,h3,h7{
+
+           font-size: 30px;
+
+           font-family:'Josefin Sans', sans-serif;
+
+}
+
+h4{
+
+           font-size: 20px;
+
+           font-family:'Josefin Sans', sans-serif;
+
+}
+
+h5,h6{
+
+           font-size: 22px;
+
+           font-family:'Josefin Sans', sans-serif;
+
+}
+
+ 
+
+ 
+
+a {
+
+           text-decoration: none;
+
+           color: black;
+
+}
+
+ 
+
+.banner{
+
+           background-image: url(../../images/background.jpg);
+
+           padding: 140px 50px;
+
+           background-size: 1200px ;
+
+          
+
+ 
+
+}
+
+ 
+
+.btn{
+
+           background-color: #FDA769;
+
+           padding: 15px 20px;
+
+           color: white;
+
+           font-weight: bold;
+
+}
+
+ 
+
+.cards{
+
+           display: flex;
+
+           flex-wrap: wrap;
+
+}
+
+ 
+
+.card{
+
+           padding: 20px;
+
+           align-items: center;
+
+           justify-content: space-around;
+
+           background-color: #FDA769;
+
+           color: #FFFBF5;
+
+           margin-bottom: 10px ;
+
+           margin-top:10px ;
+
+           margin-left: 40px;
+
+           margin-right:40px ;
+
+           flex-grow: 1;
+
+          
+
+.card img{
+
+           width: 350px;
+
+}
+
+ 
